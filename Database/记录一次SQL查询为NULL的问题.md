@@ -6,7 +6,6 @@
 原因是：NULL值比较特殊，NULL不可以用!=符号比较  
 结论是：<font color="red">!=无法查询出为Null的情况</font>
 
-
 ## 解决办法
 
 修改前的SQL
